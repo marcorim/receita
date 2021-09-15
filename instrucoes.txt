@@ -1,0 +1,7 @@
+MODO DE PRAPARO
+
+Passo 01: teste 01;
+
+Passo 02: teste 02;
+
+Passo 03: teste 03;
